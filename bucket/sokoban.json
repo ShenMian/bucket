@@ -13,7 +13,7 @@
     },
     "shortcuts": [
         [
-            "bin/sokoban-rs.exe",
+            "sokoban-windows/sokoban-rs.exe",
             "Sokoban"
         ]
     ],
