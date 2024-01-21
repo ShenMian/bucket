@@ -11,6 +11,12 @@
             "hash": "dd09d809d84775d66ba0a72f59e7930c7db3ccb3bace6432a10152bbbcfdf9b2"
         }
     },
+    "shortcuts": [
+        [
+            "sokoban-windows/sokoban-rs.exe",
+            "sokoban-rs"
+        ]
+    ],
     "autoupdate": {
         "architecture": {
             "64bit": {
