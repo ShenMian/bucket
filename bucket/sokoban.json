@@ -7,13 +7,13 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/ShenMian/sokoban-rs/releases/download/v0.1.18/sokoban-windows.zip",
-            "bin": "sokoban-windows/sokoban-rs.exe",
+            "bin": "sokoban-windows/soukoban-rs.exe",
             "hash": "3e350c5aad606a47608b699d92ef9bdb91af97cfb97c2cab2892b39d217d2753"
         }
     },
     "shortcuts": [
         [
-            "sokoban-windows/sokoban-rs.exe",
+            "sokoban-windows/soukoban-rs.exe",
             "sokoban-rs"
         ]
     ],
